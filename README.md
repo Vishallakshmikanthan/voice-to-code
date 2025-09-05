@@ -106,14 +106,9 @@ We actively encourage people to contribute by adding their own examples or even 
 
 Please *do not* leave your secret key in plaintext in your pull request!
 
-## Authors
+## Author
+* Vishal L
 
-The following authors have committed 20 lines or more (ordered according to the Github contributors page):
 
-* Shreya Shankar
-* Bora Uyumazturk
-* Devin Stein
-* Gulan
-* Michael Lavelle
 
 
